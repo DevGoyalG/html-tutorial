@@ -58,7 +58,11 @@ html-tutorial/
 │   ├── 02-02-attributes.html
 │   ├── 02-03-anchor-element.html
 │   ├── 02-04-image-element.html
-│   └── 02-05-practice.html
+│   ├── 02-05-practice.html
+│   ├── 02-06-more-html-tags.html
+│   ├── 02-07-comments.html
+│   ├── 02-08-case-sensitivity.html
+│   └── 02-09-practice.html
 │
 ├── 03-Semantic-HTML/
 │   ├── 03-01-inline-vs-block.html
@@ -72,8 +76,7 @@ html-tutorial/
 │   ├── 03-09-practice.html
 │   ├── 03-10-html-entities.html
 │   ├── 03-11-practice.html
-│   ├── 03-12-emmet.html
-│   └── 03-13-further-understanding.html
+│   └── 03-12-emmet.html
 │
 ├── 04-Tables/
 │   ├── 04-01-tables.html
@@ -95,7 +98,14 @@ html-tutorial/
 │   ├── 05-11-textarea.html
 │   └── 05-12-practice.html
 │
-└── LICENSE
+├── assets/
+│   └── images/
+│       ├── apple.jpg
+│       ├── mango.jpg
+│       ├── orange.jpg
+│       └── The-Blockchain-Hive.jpg
+│
+├── LICENSE
 └── README.md
 ```
 
